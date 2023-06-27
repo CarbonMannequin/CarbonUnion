@@ -1,1 +1,1 @@
-# CarbonUnion
+This is where we will be posting a lot of our reserach and development of our progress we make. This will contain articles, sketches, ideas, scripts, videos, pictures, and much more. As of now the organization is just getting started up at SDSU so collaboration with other universities or groups is still in progres. Much more is going to be added!
